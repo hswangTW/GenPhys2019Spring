@@ -23,7 +23,7 @@ the_zip_file.zip
 
 ## Deadline
 
-`Not determined yet`
+`2019/04/30 Tue 21:00`
 
 ## Contents  
 
