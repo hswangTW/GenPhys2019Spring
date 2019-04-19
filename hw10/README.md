@@ -64,11 +64,12 @@ Therefore, the potential at each grid-point is simply the mean value of its near
 > 助教註: 這次沒有 Optional 部份，所以 Must 部份滿分是 125% 。
 
 In the following program:
-**1.** We use the finite-difference methods for the grid points on the region of interest and set the potential on the top and bottom plates to be <img src="https://latex.codecogs.com/gif.latex?\dpi{150}&space;\pm&space;100V" title="\pm 100V" height=13/>.
-**2.** We solve the 2-D Laplace's equation at each grid-point
-**3.** By taking the gradient of the potential, we obtain the electric field on x-y plane.
-**4.** By numerically integrating the Gauss surface, we obtain the total charge on the capacitor.
-**5.** Dividing the total charge by the voltage difference, we obtain the capacitance.
+
+1. We use the finite-difference methods for the grid points on the region of interest and set the potential on the top and bottom plates to be <img src="https://latex.codecogs.com/gif.latex?\dpi{150}&space;\pm&space;100V" title="\pm 100V" height=13/>.
+2. We solve the 2-D Laplace's equation at each grid-point
+3. By taking the gradient of the potential, we obtain the electric field on x-y plane.
+4. By numerically integrating the Gauss surface, we obtain the total charge on the capacitor.
+5. Dividing the total charge by the voltage difference, we obtain the capacitance.
 
 Your job is to complete the template code for **2.**, **4.**, and **5.** and compare the value of **5.** to the value of an ideal parallel-plate capacitor.
 
