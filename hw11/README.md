@@ -22,8 +22,6 @@ the_zip_file.zip
 
 ## Contents  
 
-# 待改
-
 + [I. Introduction](#i-introduction)  
 + [Homework](#ii-homework)  
 
