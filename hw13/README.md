@@ -25,6 +25,8 @@ the_zip_file.zip
 
 ## I. Introduction
 
+<img src="pic/circuit.png" height=200/>
+
 An RLC circuit, with <img src="https://latex.codecogs.com/svg.latex?\dpi{300}&space;&space;\text{R}&space;=&space;30\&space;(\Omega)" height=16/>, <img src="https://latex.codecogs.com/svg.latex?\dpi{300}&space;\&space;\text{L}&space;=&space;200\&space;(\text{mH})" height=16/>, <img src="https://latex.codecogs.com/svg.latex?\dpi{300}&space;&space;\text{C}&space;=&space;20\&space;(\mu\textup{F})" height=16/>. The driving voltage source is
 
 <img src="https://latex.codecogs.com/svg.latex?\dpi{300}&space;v(t)&space;=&space;\left\{\begin{matrix}&space;0,&space;&&space;\text{if}\&space;t&space;<&space;0&space;\\&space;36&space;\cdot&space;\sin(2\pi&space;f_d&space;t),&space;&&space;\text{if}\&space;0&space;\leq&space;t&space;<&space;12\text{T}&space;\\&space;0,&space;&&space;\text{if}\&space;12\text{T}&space;\leq&space;t&space;\end{matrix}\right." title="v(t) = \left\{\begin{matrix} 0, & \text{if}\ t < 0 \\ 36 \cdot \sin(2\pi f_d t), & \text{if}\ 0 \leq t < 12T \\ 0, & \text{if}\ 12T \leq t \end{matrix}\right."  height=80/>
@@ -32,7 +34,6 @@ An RLC circuit, with <img src="https://latex.codecogs.com/svg.latex?\dpi{300}&sp
 \
 where <img src="https://latex.codecogs.com/svg.latex?\dpi{150}&space;f_d&space;=&space;120\&space;(\text{Hz})" title="f_d = 120\ (\text{Hz})" />, <img src="https://latex.codecogs.com/svg.latex?\dpi{150}&space;\text{T}&space;=&space;1/f_d" title="\text{T} = 1/f_d" />.
 
-<img src="pic/circuit.png" height=200/>
 
 ## II. Homework
 
