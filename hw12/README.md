@@ -35,7 +35,7 @@ For part (1):
 3. Find the magnetic field at position `p` due to the current on each `ds` by Biot-Savart law.
 4. Sum the magnetic field cuased by the source from over all the `n` pieces `ds` along the large loop to get the total magnetic field at `p`.
 5. Multiply the magnetic field with the area of the ring area to get the magnetic flux inside that ring area, and sum over all `m` rings to get the total flux inside the small loop due to the current on the large loop.
-6. <img src="https://latex.codecogs.com/gif.latex?\dpi{150}&space;M=\frac{N_s\phi_{sl}}{i_l}=\phi_{sl},\text{for&space;}N_s=1,\text{and&space;}i_l=1A" title="M=\frac{N_s\phi_{sl}}{i_l}=\phi_{sl},\text{for }N_s=1,\text{and }i_l=1A" height=40/>
+6. <img src="https://latex.codecogs.com/gif.latex?\dpi{300}&space;M&space;=&space;\frac{N_s\phi_{sl}}{i_l}&space;=&space;\phi_{sl}&space;,&space;\text{for&space;}N_s&space;=&space;1,&space;\text{and&space;}&space;i_l&space;=&space;1A" title="M = \frac{N_s\phi_{sl}}{i_l} = \phi_{sl} , \text{for }N_s = 1, \text{and } i_l = 1A" height=40/>
 7. You can do similarly for part (2).
 8. Check if the result of (1) = result of (2).
  
