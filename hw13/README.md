@@ -1,18 +1,8 @@
 # VP13 RLC and Transient Behavior
 
+本學期不用寫這次作業喔，請大家不要寫錯了。
+
 [官方PDF檔](VP13.pdf)  
-
-## 作業繳交格式
-
-請上傳一個zip檔（壓縮檔，請注意副檔名要是zip）到CEIBA，zip檔內需要包含一個**名稱是自己學號的資料夾**，裡面包含一個py檔，取名為 `must.py` 。請記得拍攝說明影片，並**將影片連結寫在video.txt裡面，並一併放入學號資料夾中**。
-
-範例：
-```
-the_zip_file.zip
-└── r07222060
-    ├── must.py
-    └── video.txt
-```
 
 ## Deadline
 
