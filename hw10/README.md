@@ -124,3 +124,9 @@ for i in range(0, N):
 #Compare C_nonideal to C_ideal
 ```
  
+## III. Grading Policy
+
+1. Correctly calculated the theoretical capacitance of the ideal capacitor (20%)
+2. The solution of laplace equation is roughly correct (40%)
+4. The simulated value is bigger than theoretical value (20%)
+5. The simulated value is roughly correct (20%)
